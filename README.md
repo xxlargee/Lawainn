@@ -17,12 +17,12 @@
 <br />
 
 ### Tech I Use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="25" height= "25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="25" height= "25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widht="25" height= "25">
-<img src="https://cdn.discordapp.com/attachments/890934127681994752/909389713847226408/cpp.png" widht="25" height= "25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="30" height= "30">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="30" height= "30">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widht="30" height= "30">
+<img src="https://cdn.discordapp.com/attachments/890934127681994752/909389713847226408/cpp.png" widht="30" height= "30">
 
-
+<br/>
 
  <details>
  <summary>:bulb: Github Stats</summary>
