@@ -4,8 +4,8 @@
 
 ##  </> Discord Developer
 
-</font>
 ![](https://komarev.com/ghpvc/?username=Lawainn)
+
 ### My Social Media Accounts
 
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/steam.svg" align="left" />][steam]
