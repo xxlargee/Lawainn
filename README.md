@@ -4,7 +4,6 @@
 
 ##  </> Discord Developer
 
-<font color="pink"> Alone `coder`
 </font>
 ![](https://komarev.com/ghpvc/?username=Lawainn)
 ### My Social Media Accounts
